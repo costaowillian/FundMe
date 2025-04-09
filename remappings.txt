@@ -1,0 +1,13 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/
+
+@openzeppelin/contracts-upgradeable/=lib/openzezeppelin-contracts-upgradeable/contracts/
+
+@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/
+
+chainlink-brownie-contracts/=lib/chainlink-brownie-contracts/
+
+ds-test/=lib/forge-std/lib/ds-test/src/
+
+forge-std/=lib/forge-std/src/
+
+foundry-devops/=lib/foundry-devops/
